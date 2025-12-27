@@ -27,7 +27,7 @@ Subgroup interaction analysis (forest plots)
 C-index comparisons for model discrimination
 Repository Structure
  
- All code for DYW project.R : Complete analysis script covering data cleaning, statistical modeling, and visualization
+ All code for PNI project.R : Complete analysis script covering data cleaning, statistical modeling, and visualization
  
  mimiciv_export.xlsx : Primary dataset containing clinical variables, laboratory values, severity scores, and outcomes
  
